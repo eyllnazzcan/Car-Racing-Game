@@ -1,6 +1,6 @@
 # Bomb Racer – Car Racing Game
 
-Bomb Racer is an arcade-style car racing game developed in Unity as part of the **CE356 Software Engineering Project** at Kadir Has University.  
+Bomb Racer is an arcade-style car racing game developed in Unity as part of the CE356 Software Engineering Project at Kadir Has University.  
 The game blends fast-paced racing mechanics with a competitive leaderboard system, designed for fun, accessibility, and replayability.
 
 ## Project Overview
